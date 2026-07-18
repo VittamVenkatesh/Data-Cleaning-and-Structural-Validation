@@ -1,0 +1,11 @@
+Customer_ID,Name,Age,City,Salary,Joining_Date
+101,Rahul,25,Hyderabad,45000,12-01-2023
+102,Priya,27,Chennai,52000,12-02-2023
+103,Arjun,,Bangalore,60000,Mar 15 2023
+104,Sneha,29,Mumbai,,18-04-2023
+105,Kiran,31,Delhi,55000,18-05-2023
+101,Rahul,25,Hyderabad,45000,12-01-2023
+106,,26,Pune,47000,25-06-2023
+107,Meena,twenty-eight,Kolkata,49000,"July 10,2023"
+108,Vikram,30,,62000,15-08-2023
+109,Anjali,24,Chennai,51000,15-09-2023
